@@ -1,0 +1,101 @@
+,name,business_id,bigram,frequency
+0,Bold Coffee Bar,99zoELPcbwRBUqiPoaPqiQ,coffee bar,7
+1,Bold Coffee Bar,99zoELPcbwRBUqiPoaPqiQ,bold coffee,6
+2,Bold Coffee Bar,99zoELPcbwRBUqiPoaPqiQ,coffee shop,5
+3,Bold Coffee Bar,99zoELPcbwRBUqiPoaPqiQ,coffee spot,4
+4,Bold Coffee Bar,99zoELPcbwRBUqiPoaPqiQ,new coffee,4
+5,Bold Coffee Bar,99zoELPcbwRBUqiPoaPqiQ,oat milk,3
+6,Bold Coffee Bar,99zoELPcbwRBUqiPoaPqiQ,cold brew,3
+7,Bold Coffee Bar,99zoELPcbwRBUqiPoaPqiQ,matcha latte,3
+8,Bold Coffee Bar,99zoELPcbwRBUqiPoaPqiQ,best coffee,3
+9,Bold Coffee Bar,99zoELPcbwRBUqiPoaPqiQ,coffee drinks,3
+10,Thunder Mug Cafe,dc98lqGzBSpZZExT_LSiCA,thunder mug,6
+11,Thunder Mug Cafe,dc98lqGzBSpZZExT_LSiCA,east falls,5
+12,Thunder Mug Cafe,dc98lqGzBSpZZExT_LSiCA,coffee shop,5
+13,Thunder Mug Cafe,dc98lqGzBSpZZExT_LSiCA,cheese board,4
+14,Thunder Mug Cafe,dc98lqGzBSpZZExT_LSiCA,ridge ave,3
+15,Thunder Mug Cafe,dc98lqGzBSpZZExT_LSiCA,cheese danish,3
+16,Thunder Mug Cafe,dc98lqGzBSpZZExT_LSiCA,great coffee,3
+17,Thunder Mug Cafe,dc98lqGzBSpZZExT_LSiCA,coming back,2
+18,Thunder Mug Cafe,dc98lqGzBSpZZExT_LSiCA,board coffee,2
+19,Thunder Mug Cafe,dc98lqGzBSpZZExT_LSiCA,board aside,2
+20,Pilgrim Roasters,McQZweV9DLoNzbJWksPJ6w,pilgrim roasters,7
+21,Pilgrim Roasters,McQZweV9DLoNzbJWksPJ6w,main street,5
+22,Pilgrim Roasters,McQZweV9DLoNzbJWksPJ6w,iced coffee,5
+23,Pilgrim Roasters,McQZweV9DLoNzbJWksPJ6w,coffee shop,5
+24,Pilgrim Roasters,McQZweV9DLoNzbJWksPJ6w,coffee good,3
+25,Pilgrim Roasters,McQZweV9DLoNzbJWksPJ6w,iced mocha,3
+26,Pilgrim Roasters,McQZweV9DLoNzbJWksPJ6w,also super,3
+27,Pilgrim Roasters,McQZweV9DLoNzbJWksPJ6w,oat milk,3
+28,Pilgrim Roasters,McQZweV9DLoNzbJWksPJ6w,coffee beans,3
+29,Pilgrim Roasters,McQZweV9DLoNzbJWksPJ6w,enjoy coffee,3
+30,Grindcore House,9A5Gw0At6so0x-vWM0_JZw,cream cheese,13
+31,Grindcore House,9A5Gw0At6so0x-vWM0_JZw,coffee shop,10
+32,Grindcore House,9A5Gw0At6so0x-vWM0_JZw,grindcore house,5
+33,Grindcore House,9A5Gw0At6so0x-vWM0_JZw,golden latte,4
+34,Grindcore House,9A5Gw0At6so0x-vWM0_JZw,breakfast sandwich,4
+35,Grindcore House,9A5Gw0At6so0x-vWM0_JZw,love place,4
+36,Grindcore House,9A5Gw0At6so0x-vWM0_JZw,order online,4
+37,Grindcore House,9A5Gw0At6so0x-vWM0_JZw,chai latte,4
+38,Grindcore House,9A5Gw0At6so0x-vWM0_JZw,also got,4
+39,Grindcore House,9A5Gw0At6so0x-vWM0_JZw,baked goods,4
+40,Konditori,T0qzsFxkHK9w1afnmns4fw,oat milk,8
+41,Konditori,T0qzsFxkHK9w1afnmns4fw,coffee shop,7
+42,Konditori,T0qzsFxkHK9w1afnmns4fw,swedish coffee,7
+43,Konditori,T0qzsFxkHK9w1afnmns4fw,great coffee,5
+44,Konditori,T0qzsFxkHK9w1afnmns4fw,baked goods,4
+45,Konditori,T0qzsFxkHK9w1afnmns4fw,coffee good,4
+46,Konditori,T0qzsFxkHK9w1afnmns4fw,great service,3
+47,Konditori,T0qzsFxkHK9w1afnmns4fw,pastries well,3
+48,Konditori,T0qzsFxkHK9w1afnmns4fw,non dairy,3
+49,Konditori,T0qzsFxkHK9w1afnmns4fw,chai latte,3
+50,Ray's Café & Teahouse,Q9poenJ9SS3agpPo4Pgyyg,dumpling sampler,15
+51,Ray's Café & Teahouse,Q9poenJ9SS3agpPo4Pgyyg,family owned,10
+52,Ray's Café & Teahouse,Q9poenJ9SS3agpPo4Pgyyg,siphon coffee,7
+53,Ray's Café & Teahouse,Q9poenJ9SS3agpPo4Pgyyg,absolutely delicious,7
+54,Ray's Café & Teahouse,Q9poenJ9SS3agpPo4Pgyyg,come back,6
+55,Ray's Café & Teahouse,Q9poenJ9SS3agpPo4Pgyyg,noodle soup,6
+56,Ray's Café & Teahouse,Q9poenJ9SS3agpPo4Pgyyg,fried rice,6
+57,Ray's Café & Teahouse,Q9poenJ9SS3agpPo4Pgyyg,beef noodle,6
+58,Ray's Café & Teahouse,Q9poenJ9SS3agpPo4Pgyyg,ray café,6
+59,Ray's Café & Teahouse,Q9poenJ9SS3agpPo4Pgyyg,café teahouse,6
+60,Knockbox Cafe,QTjtz-bfm8Yrrv6t0PP0FQ,knockbox cafe,6
+61,Knockbox Cafe,QTjtz-bfm8Yrrv6t0PP0FQ,breakfast sandwich,4
+62,Knockbox Cafe,QTjtz-bfm8Yrrv6t0PP0FQ,earth cup,4
+63,Knockbox Cafe,QTjtz-bfm8Yrrv6t0PP0FQ,coffee good,4
+64,Knockbox Cafe,QTjtz-bfm8Yrrv6t0PP0FQ,coffee shop,4
+65,Knockbox Cafe,QTjtz-bfm8Yrrv6t0PP0FQ,west philly,3
+66,Knockbox Cafe,QTjtz-bfm8Yrrv6t0PP0FQ,baked goods,3
+67,Knockbox Cafe,QTjtz-bfm8Yrrv6t0PP0FQ,ice coffee,3
+68,Knockbox Cafe,QTjtz-bfm8Yrrv6t0PP0FQ,philly muffin,3
+69,Knockbox Cafe,QTjtz-bfm8Yrrv6t0PP0FQ,cute little,3
+70,La Colombe Coffee,6wqxuBt2InDipRuUj8BNuQ,la colombe,25
+71,La Colombe Coffee,6wqxuBt2InDipRuUj8BNuQ,oat milk,9
+72,La Colombe Coffee,6wqxuBt2InDipRuUj8BNuQ,city hall,8
+73,La Colombe Coffee,6wqxuBt2InDipRuUj8BNuQ,draft lattes,5
+74,La Colombe Coffee,6wqxuBt2InDipRuUj8BNuQ,view city,5
+75,La Colombe Coffee,6wqxuBt2InDipRuUj8BNuQ,hot chocolate,5
+76,La Colombe Coffee,6wqxuBt2InDipRuUj8BNuQ,milk latte,4
+77,La Colombe Coffee,6wqxuBt2InDipRuUj8BNuQ,coffee shops,4
+78,La Colombe Coffee,6wqxuBt2InDipRuUj8BNuQ,coffee place,4
+79,La Colombe Coffee,6wqxuBt2InDipRuUj8BNuQ,colombe coffee,4
+80,Vineyards Cafe,GOSVLhjUT6TnrPhkkmDOpw,goat cheese,8
+81,Vineyards Cafe,GOSVLhjUT6TnrPhkkmDOpw,highly recommend,5
+82,Vineyards Cafe,GOSVLhjUT6TnrPhkkmDOpw,iced coffee,4
+83,Vineyards Cafe,GOSVLhjUT6TnrPhkkmDOpw,vineyards cafe,4
+84,Vineyards Cafe,GOSVLhjUT6TnrPhkkmDOpw,back try,3
+85,Vineyards Cafe,GOSVLhjUT6TnrPhkkmDOpw,cheese avocado,3
+86,Vineyards Cafe,GOSVLhjUT6TnrPhkkmDOpw,crepes delicious,3
+87,Vineyards Cafe,GOSVLhjUT6TnrPhkkmDOpw,love place,3
+88,Vineyards Cafe,GOSVLhjUT6TnrPhkkmDOpw,staff friendly,3
+89,Vineyards Cafe,GOSVLhjUT6TnrPhkkmDOpw,customer service,3
+90,Old City Coffee,h_rcMQtglIiAs-Oc5d8Ozw,old city,23
+91,Old City Coffee,h_rcMQtglIiAs-Oc5d8Ozw,reading terminal,20
+92,Old City Coffee,h_rcMQtglIiAs-Oc5d8Ozw,city coffee,17
+93,Old City Coffee,h_rcMQtglIiAs-Oc5d8Ozw,terminal market,13
+94,Old City Coffee,h_rcMQtglIiAs-Oc5d8Ozw,oat milk,12
+95,Old City Coffee,h_rcMQtglIiAs-Oc5d8Ozw,coffee shop,9
+96,Old City Coffee,h_rcMQtglIiAs-Oc5d8Ozw,iced coffee,8
+97,Old City Coffee,h_rcMQtglIiAs-Oc5d8Ozw,inside reading,6
+98,Old City Coffee,h_rcMQtglIiAs-Oc5d8Ozw,convention center,5
+99,Old City Coffee,h_rcMQtglIiAs-Oc5d8Ozw,cup coffee,5
