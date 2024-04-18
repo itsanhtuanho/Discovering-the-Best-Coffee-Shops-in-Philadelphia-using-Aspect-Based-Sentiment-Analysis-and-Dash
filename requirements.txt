@@ -1,0 +1,22 @@
+# used for database
+sqlalchemy
+pymysql
+
+# used for ABSA 
+transformers
+sentencepiece
+torch
+json
+numpy
+datetime
+tqdm
+protobuf
+scikit-learn
+
+# used in front-end 
+pandas
+plotly
+dash
+dash_bootstrap_components
+
+
