@@ -11,7 +11,7 @@ The development is mainly based on python, and we use the plotly+Dash web framew
 
 ## Installation
 This project includes 2 versions of our application; 
-* **app_mySQL_version.py** is the main version of our applicaiton. This version connects to our data on a mySQL database hosted on AWS through the mysqlproxy.py file.
+* **app_mySQL_version.py** is the main version of our application. This version connects to our data on a mySQL database hosted on AWS through the mysqlproxy.py file.
 * **app_local_data.py** connects directly to our pre-processed .csv files saved in the /Data folder. This version is a backup meant to maintain the app's functionality if we choose to stop maintaining the mySQL database in the future.
 
 
