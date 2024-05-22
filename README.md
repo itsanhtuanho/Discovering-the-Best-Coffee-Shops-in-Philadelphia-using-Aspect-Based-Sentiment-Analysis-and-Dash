@@ -47,3 +47,22 @@ Model Evaluation
 1. The model evaluation is done in modelTuner.py
 2. Run ```python3 modelTuner.py```, to get the accuracy result on the terminal
 
+## Results + Demo
+<img width="358" alt="top10philly" src="https://github.com/itsanhtuanho/Discovering-the-Best-Coffee-Shops-in-Philadelphia-using-Aspect-Based-Sentiment-Analysis-and-Dash/assets/46179761/18304300-9235-4527-957f-d5f9949959e3"> <br>
+
+
+
+![interactive map](https://github.com/itsanhtuanho/Discovering-the-Best-Coffee-Shops-in-Philadelphia-using-Aspect-Based-Sentiment-Analysis-and-Dash/assets/46179761/f06c25f3-68a5-4c9e-8676-f149ded63dee) 
+<div align="center">
+  <strong>Interactive map showing Philly coffee shops by their coffee sentiment scores</strong>
+</div> <br><br>
+
+
+![May-21-2024 17-05-36](https://github.com/itsanhtuanho/Discovering-the-Best-Coffee-Shops-in-Philadelphia-using-Aspect-Based-Sentiment-Analysis-and-Dash/assets/46179761/dd08df76-5dc8-4d04-a802-b31458560e0c)
+
+
+
+
+
+
+
